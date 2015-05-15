@@ -1,0 +1,25 @@
+{
+  "name": "Smart-UI",
+  "version": "1.0.0",
+  "description": "SmartUI 是一个符合中国国情的CSS框架，它基于Bootstrap 3.0,Normalize 3.0,Semantic UI等相关框架，取它们优秀之处，进行的整合的一款新的CSS前端框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VTOO/Smart-UI.git"
+  },
+  "keywords": [
+    "cssFormwork"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VTOO/Smart-UI/issues"
+  },
+  "homepage": "https://github.com/VTOO/Smart-UI",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
+}
